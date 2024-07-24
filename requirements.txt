@@ -1,0 +1,5 @@
+transformers
+model_checkpoint = "Helsinki-NLP/opus-mt-en-hi"
+dataset= cfilt/iitb-english-hindi from huggingface
+tokenizer
+python
